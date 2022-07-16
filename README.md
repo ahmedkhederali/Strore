@@ -1,4 +1,4 @@
-## Strore<br />
+## Strore Using NodeJS<br />
 Full Functionality of Store App Using NodeJS icludes:<br />
 <pre>
 1)User Functionality <br />
